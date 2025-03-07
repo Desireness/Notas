@@ -6,7 +6,7 @@
 /*   By: rauizqui <rauizqui@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/07 00:28:02 by rauizqui          #+#    #+#             */
-/*   Updated: 2025/03/07 00:40:45 by rauizqui         ###   ########.fr       */
+/*   Updated: 2025/03/07 01:43:48 by rauizqui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,4 +29,25 @@ Useful macros
 	-> va_end(va_list): End of the args list.
 
 
-	
+Se necesita cubrir con el identificador %:
+
+> %c Imprime un solo carácter.
+> %s Imprime una string (como se define por defecto en C).
+> %p El puntero void * dado como argumento se imprime en formato hexadecimal.
+> %d Imprime un número decimal (base 10).
+> %i Imprime un entero en base 10.
+> %u Imprime un número decimal (base 10) sin signo.
+> %x Imprime un número hexadecimal (base 16) en minúsculas.
+> %X Imprime un número hexadecimal (base 16) en mayúsculas.
+> % % para imprimir el símbolo del porcentaje.
+
+	-> De los cuales he cubierto:
+		> %c [OK]
+		> %s [OK]
+		> %p
+		> %d
+		> %i
+		> %u
+		> %x 
+		> %X
+		> %%
