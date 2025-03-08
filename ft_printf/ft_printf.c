@@ -6,7 +6,7 @@
 /*   By: rauizqui <rauizqui@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/07 00:28:02 by rauizqui          #+#    #+#             */
-/*   Updated: 2025/03/07 01:43:48 by rauizqui         ###   ########.fr       */
+/*   Updated: 2025/03/08 11:11:05 by rauizqui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,10 +44,10 @@ Se necesita cubrir con el identificador %:
 	-> De los cuales he cubierto:
 		> %c [OK]
 		> %s [OK]
-		> %p
-		> %d
-		> %i
-		> %u
-		> %x 
-		> %X
-		> %%
+		> %p [OK]
+		> %d [OK]
+		> %i [OK]
+		> %u [OK]
+		> %x [OK]
+		> %X [OK]
+		> %% [OK]
